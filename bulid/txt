@@ -1,0 +1,31 @@
+ <div id="main_page">
+        <div id="page1">
+            <nav id="navbar">
+                <h2>
+                    BULID.
+                </h2>
+                <ul class="nav-links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">services</a></li>
+                    <li><a href="#">contact</a></li>
+                </ul>
+                <div class="button">
+                    Get us
+                </div>
+            </nav>
+            <div class="content-1" id="content1">
+                <h5>
+                    Transforming Concepts into Masterpieces: Your Dream Space Awaits
+                </h5>
+            </div>
+            
+        </div>
+        <div id="page2">
+
+        </div>
+        <div id="page3">
+
+        </div>
+    </div>
+    
